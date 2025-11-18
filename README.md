@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Bonjour, moi c’est Mammar Mohamed
 
-<!--
-**Mohamed6913/Mohamed6913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en BTS SIO (Services Informatiques aux Organisations) – option SLAM (si ce n’est pas SLAM, dis-moi et je modifie !)
+💻 Passionné par le développement web, la programmation, et la découverte de nouvelles technologies.
 
-Here are some ideas to get you started:
+🚀 À propos de moi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Je commence à construire mon portfolio pour présenter mes projets et mon évolution.
+
+📚 J’apprends actuellement : HTML, CSS, JavaScript, Python, Git/GitHub...
+
+💡 J’aime comprendre comment les sites et applications sont conçus et les recréer.
+
+🎯 Objectif : devenir développeur ou ingénieur logiciel.
+
+🤝 Ouvert à toute collaboration ou discussion autour de l’informatique.
+
+🛠️ Compétences
+
+🌐 Développement Web : HTML – CSS – JavaScript
+
+🐍 Python : scripts simples, automatisation basique
+
+🔧 Outils : Git, GitHub, VS Code
+
+📅 Gestion de projet (méthodes simples + travail en équipe)
